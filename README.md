@@ -2,7 +2,7 @@
 
 I'm a self taught developer, started my programming journey with `python` as the initiation language and moved to learn Javascript once I learned the basics of programming. 
 
-After discovering kubernetes last year, I have learnt kubernetes and discovering/exploring the other aspects of Cloud Native tech landscape.
+After discovering Kubernetes,  I have made it a mission to learn it and and discover and explore  other aspects of Cloud Native tech landscape.
 
 ### 🔭 I’m currently searching for my first job in tech.
 
