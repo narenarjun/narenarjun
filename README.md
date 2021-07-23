@@ -4,7 +4,7 @@ I'm a self taught developer, started my programming journey with `python` as the
 
 After discovering Kubernetes,  I have made it a mission to learn it and and discover and explore  other aspects of Cloud Native tech landscape.
 
-### 🔭 I’m currently searching for my first job.
+<!-- ### 🔭 I’m currently searching for my first job. -->
 
  Languages & Skills:
 - Typescript
